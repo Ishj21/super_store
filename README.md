@@ -1,16 +1,16 @@
-# super_store
+# Super Store
 
-A new Flutter application.
+A flutter based grocery store mockup. Uses an API to get product infomation.
 
-## Getting Started
+# Download APK
+[App-debug.apk](build\app\outputs\flutter-apk\apk-debug.apk)
 
-This project is a starting point for a Flutter application.
+# Features of the app
+  - Custom Splash Screen
+  - Signin Page
+  - Dashboard
+  - Product Information Page
+  - Cart
 
-A few resources to get you started if this is your first Flutter project:
+Currently the cart is not in function due to some reasons, would be updated soon!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
