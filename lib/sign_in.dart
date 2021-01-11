@@ -108,7 +108,7 @@ class SignIn extends StatelessWidget {
                   ),
                   InkWell(
                     onTap: () {
-                      if (usernameController.text == 'admin' ||
+                      if (usernameController.text == 'admin' &&
                           passController.text == 'admin') {
                         Navigator.pushReplacement(
                             context,
