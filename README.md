@@ -15,4 +15,6 @@ A flutter based grocery store mockup. Uses an API to get product infomation.
 Currently the cart is not in function due to some reasons, would be updated soon!
 
 # Screenshots
+![](splash.jpg)
+![](login.jpg)
 ![](Screenshot_1610341429.png)
