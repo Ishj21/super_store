@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>PlasmaLead</title>
+        <item>
+            <title>Version 1.15.0</title>
+            <description>desc</description>
+            <pubDate>Mon, 05 July 2021 12:00:00 +0530</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.blueframe.plasmalead" sparkle:version="1.15.0" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
